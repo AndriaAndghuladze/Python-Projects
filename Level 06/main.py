@@ -50,4 +50,4 @@ password = ""
 for x in temp_pass_list:
     password = password + x
 
-print("*" * len(password))
+print('*' *len(password))
