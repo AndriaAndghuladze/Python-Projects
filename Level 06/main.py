@@ -45,7 +45,7 @@ for x in temp_pass_list:
 #ვაკონსოლებთ ჩვენს კოდს
 print(password)
 
-#გარდავქმნით ჩვეულებრივ პაროლს *-ად დასაშიფრად
+#გარდავქმნით ჩვეულებრივ პაროლს *-ად დასაშიფრად.
 password = ""
 for x in temp_pass_list:
     password = password + x
